@@ -101,7 +101,7 @@ mvn clean package "-Dmaven.test.skip=true"
 
 GitHub release:
 
-- [`v4.9-Drake-1.20.6`](https://github.com/DrakesCraft-Labs/Slimefun4-1.20.6-Port/releases/tag/v4.9-Drake-1.20.6)
+- [`v4.9-Drake-1.20.6`](https://github.com/SlimefunNewHorizons/Slimefun4-1.20.6-Port/releases/tag/v4.9-Drake-1.20.6)
 
 Included asset:
 
@@ -119,7 +119,7 @@ For local server preparation, this workspace also includes an `AddonsSlimefun` f
 
 ## 📄 License & Upstream Attribution
 
-This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/SlimefunNewHorizons).
 
 - **Original Project:** Created by the upstream authors and the open-source community.
 - **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
