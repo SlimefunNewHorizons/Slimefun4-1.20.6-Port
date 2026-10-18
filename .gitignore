@@ -16,3 +16,4 @@ dependency-reduced-pom.xml
 *.iml
 *.bak
 .DS_Store
+graphify-out/
