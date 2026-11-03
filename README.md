@@ -10,7 +10,7 @@
 
 ---
 
-Unofficial `Slimefun4` port for `Paper/Purpur 1.20.6`, published by `DrakesCraft-Labs`.
+Unofficial `Slimefun4` port for `Paper/Purpur 1.20.6`, published by `SlimefunNewHorizons`.
 
 ## What This Repository Is
 
@@ -33,7 +33,7 @@ This port would not exist without the original project and its contributors.
 - Original project: [`Slimefun/Slimefun4`](https://github.com/Slimefun/Slimefun4)
 - Original authors and maintainers: `TheBusyBiscuit`, `Walshy`, and the wider `Slimefun` community
 - Upstream contributor base: 200+ contributors across the life of the project
-- Port packaging and publication: `DrakesCraft-Labs`
+- Port packaging and publication: `SlimefunNewHorizons`
 
 This repository is a derivative publication built on top of the upstream GPL project. Credit for the plugin itself belongs first and foremost to the original Slimefun team and community.
 
